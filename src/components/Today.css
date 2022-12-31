@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Rajdhani&display=swap');
+
+
+.todays{
+    background-color: #F0EBE5;
+    min-height: 85vh;
+    border-radius: 15px;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.2rem;
+   
+    
+}

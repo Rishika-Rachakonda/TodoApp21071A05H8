@@ -1,0 +1,82 @@
+{
+  "todo": [
+    {
+      "taskname": "Reading",
+      "starttime": "20:00",
+      "endtime": "21:00",
+      "cateogery": "Study",
+      "status": "ongoing",
+      "id": 1
+    },
+    {
+      "taskname": "Eating",
+      "starttime": "21:00",
+      "endtime": "21:30",
+      "cateogery": "Others",
+      "status": "pending",
+      "id": 2
+    }
+  ],
+  "completedTodo": [
+    {
+      "taskname": "Reading",
+      "starttime": "15:00",
+      "endtime": "19:00",
+      "cateogery": "Study",
+      "status": "completed",
+      "id": 1
+    },
+    {
+      "taskname": "Eating",
+      "starttime": "20:00",
+      "endtime": "20:30",
+      "cateogery": "Others",
+      "status": "completed",
+      "id": 2
+    },
+    {
+      "taskname": "Exercise",
+      "starttime": "06:00",
+      "endtime": "05:45",
+      "cateogery": "Exercise",
+      "status": "completed",
+      "id": 3
+    }
+  ],
+  "today": [
+    {
+      "date": 28,
+      "year": 2022,
+      "month": 11,
+      "day": 3,
+      "id": 1
+    },
+    {
+      "date": 29,
+      "year": 2022,
+      "month": 11,
+      "day": 4,
+      "id": 2
+    },
+    {
+      "date": 30,
+      "year": 2022,
+      "month": 11,
+      "day": 5,
+      "id": 3
+    },
+    {
+      "date": 31,
+      "year": 2022,
+      "month": 11,
+      "day": 6,
+      "id": 4
+    }
+  ],
+  "count": [
+    {
+      "count": 4,
+      "id": 1
+    }
+  ]
+}

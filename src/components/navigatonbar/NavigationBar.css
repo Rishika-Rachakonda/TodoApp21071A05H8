@@ -1,0 +1,10 @@
+.navi,.navs
+{
+    font-size: 25px;
+
+    
+}
+
+.analytics-link.active , .main-link.active , .today-link.active{
+    text-decoration: underline;
+}

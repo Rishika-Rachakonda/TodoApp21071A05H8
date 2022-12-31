@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap');
+.main-page{
+    background-image: url(https://images.pexels.com/photos/859895/pexels-photo-859895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-size: cover;
+   background-repeat: no-repeat;
+    min-height: 90vh;
+    position: relative;
+    color:#221E1B;
+   
+}
+.main-text
+{
+  
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    box-shadow: 10px 10px black
+}
+    .main-sub-text
+    {
+        font-family: 'Dancing Script', cursive;
+        display: block;
+        
+    }
+    .button-main{
+        font-family: 'Dancing Script', cursive;
+        position:absolute;
+        bottom: 20%;
+        left:46%;
+        box-shadow: 5px 5px black
+    }
+
+    @media only screen and (max-width: 600px)
+    {
+
+        .main-text
+        {
+  
+           font-family: 'Dancing Script', cursive;
+             margin: auto;
+            position: absolute;
+            top: 25%;
+            left: 20%;
+            box-shadow: none;
+        }
+        .button-main{
+            font-family: 'Dancing Script', cursive;
+            position:absolute;
+            bottom: 20%;
+            left:35%;
+            box-shadow: none;
+        }
+        
+    }

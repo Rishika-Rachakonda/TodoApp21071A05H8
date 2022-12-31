@@ -1,0 +1,11 @@
+.sun-img{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.strek{
+    display: flex;
+    justify-content: space-around;
+    margin: 10vh;
+    padding-right: 10px;
+}

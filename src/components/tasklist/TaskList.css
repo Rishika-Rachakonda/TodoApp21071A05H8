@@ -1,0 +1,26 @@
+.disp
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.sub-button{
+    size: 10px;
+}
+@media  screen and (max-width: 1000px) {
+    .disp
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+    
+  }
+
+.tablist
+{
+    margin-top: 5vh;
+    padding-top: 5vh;
+    min-height: 20vh;
+}
+  
